@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased : 0.12.1-beta.1] - 
 
+### Added
+
+- local branch TestCM
+
 ### Changed
 
 - SequentialFeatureSelection parameters order Changed. *scoring* is now before *standardize*.
